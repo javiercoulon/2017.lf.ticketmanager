@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\bin\Debug\BL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\bin\Debug\BL.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\bin\Debug\BE.dll
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\bin\Debug\DA.dll
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\bin\Debug\BE.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\bin\Debug\DA.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\obj\Debug\BL.dll
+c:\users\usuario\documents\visual studio 2015\Projects\2017.lf.ticketmanager\BL\obj\Debug\BL.pdb
