@@ -10,7 +10,7 @@ namespace BL
     {
         public string sayHello()
         {
-            return "hola";
+            return "hola2";
         }
     }
 }
