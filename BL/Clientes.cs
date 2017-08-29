@@ -8,5 +8,9 @@ namespace BL
 {
     public class Clientes
     {
+        public string sayHello()
+        {
+            return "hola";
+        }
     }
 }
